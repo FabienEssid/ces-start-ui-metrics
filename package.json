@@ -9,12 +9,23 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@chakra-ui/react": "2.3.7",
+    "@emotion/react": "11.10.5",
+    "@emotion/styled": "11.10.5",
+    "@tanstack/react-query": "4.14.5",
     "@ulixee/hero": "2.0.0-alpha.14",
+    "@ulixee/hero-playground": "2.0.0-alpha.14",
+    "axios": "1.1.3",
+    "framer-motion": "7.6.6",
+    "module": "1.2.5",
     "next": "13.0.2",
+    "puppeteer": "19.2.2",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "react-icons": "4.6.0"
   },
   "devDependencies": {
+    "@types/react": "18.0.25",
     "eslint": "8.27.0",
     "eslint-config-next": "13.0.2"
   }
